@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 22 12:24:49 2019
-@author: raghu
-"""
+
 #uncomment the code below to initiate a puzzle board 
 #instead of loading it from a file
 # =============================================================================
